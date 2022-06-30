@@ -1,3 +1,10 @@
+Primeira aplicação utilizando o framework angular, seguindo a orientação do curso de introdução ao angular do bootcamp Unimed Tech.
+
+
+
+
+##Como rodar:
+
 # CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
